@@ -1,0 +1,5 @@
+/build
+/resources/sass/.sass-cache
+/cordova/www
+/cordova/platforms/android/ant-build
+/cordova/platforms/android/CordovaLib/ant-build
